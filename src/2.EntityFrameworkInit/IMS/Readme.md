@@ -18,7 +18,9 @@ dotnet ef migrations add InitialCreate --project ..\..\IMS.csproj
 
 ※ef core error 
 ims.csproj 아래에 Add
+```
   <ItemGroup>
     <Folder Include="database\context\" />
     <Folder Include="database\entity\" />
   </ItemGroup>
+```

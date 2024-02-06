@@ -13,3 +13,12 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools --version 8.0.1
 cd database/context/
 dotnet ef migrations add InitialCreate --project ..\..\IMS.csproj
 ```
+
+
+
+※ef core error 
+ims.csproj 아래에 Add
+  <ItemGroup>
+    <Folder Include="database\context\" />
+    <Folder Include="database\entity\" />
+  </ItemGroup>

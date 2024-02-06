@@ -58,6 +58,9 @@ dotnet build
 ```
 dotnet new class -n ExceptionHandlingMiddleware -o middleware
 ```
+```
+dotnet ef database update
+```
 
 ### File Edit
 ExceptionHandlingMiddleware file namespace edit

@@ -26,6 +26,9 @@ cd database/context/
 ```
 dotnet ef migrations add InitialCreate --project ..\..\IMS.csproj
 ```
+```
+dotnet new class -n ExceptionHandlingMiddleware -o middleware
+```
 
 
 

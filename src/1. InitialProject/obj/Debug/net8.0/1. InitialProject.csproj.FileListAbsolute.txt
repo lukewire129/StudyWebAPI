@@ -1,0 +1,33 @@
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\appsettings.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\1. InitialProject.exe
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\1. InitialProject.deps.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\1. InitialProject.runtimeconfig.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\1. InitialProject.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\1. InitialProject.pdb
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.csproj.AssemblyReference.cache
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.AssemblyInfoInputs.cache
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.AssemblyInfo.cs
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.csproj.CoreCompileInputs.cache
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets\msbuild.1. InitialProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets\msbuild.build.1. InitialProject.props
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.1. InitialProject.props
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.1. InitialProject.props
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\scopedcss\bundle\1. InitialProject.styles.css
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.csproj.CopyComplete
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\refint\1. InitialProject.dll
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.pdb
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\1. InitialProject.genruntimeconfig.cache
+D:\Project\98.SideProject\StudyWebAPI\src\1. InitialProject\obj\Debug\net8.0\ref\1. InitialProject.dll

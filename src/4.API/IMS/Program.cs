@@ -2,6 +2,7 @@ using IMS.database.context;
 using IMS.database.entity;
 using IMS.Dto;
 using Microsoft.EntityFrameworkCore;
+using NLog.Extensions.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContext<ImsContext>();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddLogging(loggingBuilder =>
+{
+    loggingBuilder.ClearProviders(); // 기본 로깅 프로바이더를 지웁니다.
+    loggingBuilder.SetMinimumLevel(LogLevel.Trace); // 로그 레벨 설정
+    loggingBuilder.AddNLog(); // NLog를 사용하도록 설정
+});
 
 var app = builder.Build();
 

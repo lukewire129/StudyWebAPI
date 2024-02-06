@@ -37,7 +37,10 @@ ims.csproj 아래에 Add & program.cs file edit
     <Folder Include="database\entity\" />
   </ItemGroup>
 ```
+```
 using IMS.database.context;
+.
+.
 .
 .
 .

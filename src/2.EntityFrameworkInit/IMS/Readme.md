@@ -43,5 +43,3 @@ using IMS.database.context;
 .
 builder.Services.AddDbContext<ImsContext>();
 ```
-
-```
